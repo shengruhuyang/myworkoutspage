@@ -77,7 +77,7 @@ export {
 const nike = 'rgb(224,237,94)';
 const yellow = 'rgb(224,237,94)';
 const green = 'rgb(0,237,94)';
-const blue = 'rgb(19,118,211)';
+const blue = 'rgb(90,160,235)';
 const orange = 'rgb(244,141,20)';
 const pink = 'rgb(237,85,219)';
 const cyan = 'rgb(112,243,255)';
