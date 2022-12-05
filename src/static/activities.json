@@ -3841,7 +3841,7 @@
 },
 {
 "run_id": 8201198009,
-"name": "\u6668\u95f4\u8dd1\u6b65",
+"name": "2018 Xian International Marathon",
 "distance": 21779.5,
 "moving_time": "2:11:57",
 "type": "Run",
@@ -5926,7 +5926,7 @@
 },
 {
 "run_id": 8201203694,
-"name": "\u6668\u95f4\u8dd1\u6b65",
+"name": "2020 Xi'an International Marathon",
 "distance": 20763.0,
 "moving_time": "2:22:08",
 "type": "Run",
@@ -5985,21 +5985,6 @@
 "streak": 1
 },
 {
-"run_id": 8201203462,
-"name": "\u6668\u95f4\u8dd1\u6b65",
-"distance": 0.0,
-"moving_time": "0:07:25",
-"type": "Run",
-"start_date": "2021-01-25 15:04:30+00:00",
-"start_date_local": "2021-01-25 07:04:30",
-"location_country": "United States",
-"summary_polyline": "",
-"average_heartrate": null,
-"average_speed": 0.0,
-"source": "strava",
-"streak": 1
-},
-{
 "run_id": 8201203745,
 "name": "\u5348\u540e\u8dd1\u6b65",
 "distance": 1347.9,
@@ -6041,21 +6026,6 @@
 "summary_polyline": "elxoEubpwSR?NIJQFWDYEu@Wg@QQSAc@Hg@AeBDSF]d@KT@XJj@Tl@PHPDf@?hAO~@BTCPIJWFW@q@CYIU]_@SIy@FqC@MJUl@AV@XLl@JRNNRFnAFvBSPKPk@BYGo@Si@OQQGcBHeB@[d@GTBhAFRJTb@ZPBpAIvACPELOJUDYB[Cm@KS[]SIqAH{BHc@x@At@BXHRNPRLRDvBI~@IPGNMHSDq@Eo@Ue@OQUE{@Jg@@{@Eg@H]f@IZAXDp@Tb@RLPBlCIv@BPGLULq@?YCYGUk@s@g@Bi@AqBLa@`@Ub@CTBXFVLV`@VRDlBEd@@h@EPKNSFSBUA]YeAKQQI{@D_A@sAJ[b@IRIV?XDTVf@PPTJPBV?pASz@@b@OJQHu@Co@IUKSMQUI_ADg@Fy@?k@HORKRGZ@v@BTJRPNRHjEGPMHQFWBm@Gk@Om@UMSAeBFoAPUHMPIREn@@XDVLVLJTJT@d@ET@vBQPKHQJq@?m@Um@e@YqAFeB?QJ_@b@IRCX?TJp@^`@RDbDAVARIPKHSBY@q@Iq@KSOOSC_ABe@CcBNQPMTCTIR@ZDXVf@PN|@F`AInAAPGRMHSD[Cs@Sm@e@Y}@EeB@c@L]`@ITCXDl@FVLTRLf@HhCIf@GRKHUFW@YEq@Si@KSSGi@F_A?i@Fe@?QDi@v@CVDl@Th@NNPHd@FbDSREJQPcAEo@Yi@SMUCkCL}@B_@`ACt@DXJTLPRHdCKd@Fd@GRKJSJo@@[CSUm@QOOGsD@SHo@l@GTBXPbA^`@R@lAAd@G|@?RENMLSDSBY?s@ISo@s@_AFSAoAHQAUDQNY`@IR?XJl@Tf@RPTFf@GlCGTENKHSJm@AYOs@IUMOOGqAHgB@]V]f@DpADVLRRLh@Ff@IlCINKHUBWAiAGYISa@_@qA?cBRi@TUh@Op@Nf@`@`@RFh@BtAKnAARIJSDS@o@AWIWWk@QKi@DuACOD{@BON[f@Kl@BXFR\\d@NJj@HV@f@E|@?f@GRINQLo@@[Io@Yg@QI{D@SHQRWd@CT@j@Pl@NPNHVFh@GlA?h@CRERKJQJk@Aq@Sk@MUQISEgBFqARQNUd@EV@ZPl@NP^VT?~@Mz@Ef@BPCPQLs@?o@GY_@c@e@Ui@BqAAg@Lg@XMTKj@@XTn@JNRHz@FRA",
 "average_heartrate": null,
 "average_speed": 2.906,
-"source": "strava",
-"streak": 1
-},
-{
-"run_id": 8201203649,
-"name": "\u5348\u540e\u8dd1\u6b65",
-"distance": 0.0,
-"moving_time": "0:10:05",
-"type": "Run",
-"start_date": "2021-02-09 23:39:50+00:00",
-"start_date_local": "2021-02-09 15:39:50",
-"location_country": "United States",
-"summary_polyline": "",
-"average_heartrate": null,
-"average_speed": 0.0,
 "source": "strava",
 "streak": 1
 },
@@ -6223,21 +6193,6 @@
 "average_speed": 2.991,
 "source": "strava",
 "streak": 2
-},
-{
-"run_id": 8201204326,
-"name": "\u5348\u540e\u8dd1\u6b65",
-"distance": 0.0,
-"moving_time": "0:36:25",
-"type": "Run",
-"start_date": "2021-03-04 00:15:55+00:00",
-"start_date_local": "2021-03-03 16:15:55",
-"location_country": "United States",
-"summary_polyline": "",
-"average_heartrate": null,
-"average_speed": 0.0,
-"source": "strava",
-"streak": 1
 },
 {
 "run_id": 8201204476,
@@ -6841,7 +6796,7 @@
 },
 {
 "run_id": 8203542493,
-"name": "\u6668\u95f4\u8dd1\u6b65",
+"name": "2021 Xian Marathon",
 "distance": 21306.4,
 "moving_time": "2:07:12",
 "type": "Run",
@@ -7606,7 +7561,7 @@
 },
 {
 "run_id": 8203473934,
-"name": "\u6668\u95f4\u8dd1\u6b65",
+"name": "2021\u6ca3\u4e1c\u65b0\u57ce\u8ff7\u4f60\u9a6c\u62c9\u677e\u8d5b",
 "distance": 8403.1,
 "moving_time": "0:40:36",
 "type": "Run",
@@ -11401,7 +11356,7 @@
 },
 {
 "run_id": 8203397457,
-"name": "\u6668\u95f4\u8dd1\u6b65",
+"name": "\u7b2c\u5341\u56db\u5c4a\u5168\u8fd0\u4f1a\u9a6c\u62c9\u677e\u65e5",
 "distance": 22124.3,
 "moving_time": "1:56:32",
 "type": "Run",
