@@ -21823,5 +21823,20 @@
 "average_speed": 5.855,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 8223503649,
+"name": "\u508d\u665a\u9a91\u884c",
+"distance": 10129.8,
+"moving_time": "0:27:54",
+"type": "Ride",
+"start_date": "2022-12-08 12:55:58+00:00",
+"start_date_local": "2022-12-08 20:55:58",
+"location_country": "United States",
+"summary_polyline": "wl`pEmq|wSNSCAKUUUAELqAC?McAYk@}@cAa@Wg@KsAGgCBeAEoDEw@FMBIAo@@m@HSL]h@KVCv@BhAVp@LRRNRHVBfEEd@@nC@^BNJFT@JCtBE\\[nA]n@u@x@[h@a@rAEXAd@BhB?bD@tAEvAC~B?`EEp@Jx@?jBBrAC|@BnBCbADhD?xJ@tCDbB@pB?h@OtBApEHpF@lODrBFdNJxCGXIvA@fCE~@F`BATBhC@XAnF@bBEnGDpD?jAENB~DArJJvD?\\OvA?rAIlE@tCFxBAzHHzA?z@@lPIxE?tAGn@?nA@vCDv@An@]~BWz@O~@kBtIgAlE[|Ac@|@?FFx@E`CLvE?lBFtA?bBIrEBHr@HFJB@AT@XCP?LBtBO`A@nBDJPFf@CrA?RDf@CZBjCD\\FdBIdAFp@RhBBh@A|@K~DQ`@@bBCbDFj@Jh@?jAOhDGtBF|CClADzJExH?dACrC?v@Q|@c@rGEzCFx@b@HB`@A|ANd@?jAJ~@?RHLRBZCj@CxBD~QA`CGjBArAJjF?lMC~ADfAAd@KzAJ`A@j@CjEDbKJNN@JBDr@JTPJ\\JjA@eABSG]a@K]@Y",
+"average_heartrate": 120.1,
+"average_speed": 6.051,
+"source": "strava",
+"streak": 1
 }
 ]
