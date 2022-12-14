@@ -21988,5 +21988,50 @@
 "average_speed": 2.475,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 8245945546,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 1311.2,
+"moving_time": "0:07:41",
+"type": "Run",
+"start_date": "2022-12-13 22:36:00+00:00",
+"start_date_local": "2022-12-14 06:36:00",
+"location_country": "United States",
+"summary_polyline": "yh}oEclnwS@CKs@AOBIHODC@GUFGTDXTh@VVX?VFVVj@LPGP@^PPQb@QRD\\GTA\\B^G@@dAK\\FVCCHBFHCHHF?^MRCNDTB\\E^Mj@ENGBLML_ARq@Xi@EAGGCoAXe@Be@Cc@Di@Pi@Fu@I_@?CI[Ce@He@@sAFm@Na@OUm@AEDq@GqABAD?XZLb@^RVHL@PNMTYLc@GQe@GeA",
+"average_heartrate": 134.3,
+"average_speed": 2.844,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 8245945884,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 13039.0,
+"moving_time": "1:06:26",
+"type": "Run",
+"start_date": "2022-12-13 22:47:35+00:00",
+"start_date_local": "2022-12-14 06:47:35",
+"location_country": "United States",
+"summary_polyline": "qi}oE_hnwS[y@GoA]{BAc@Ek@Bs@J]@_@Ie@Dw@?gBBuBB}@Hk@EaC@[A_DCi@@{ACiBDOJyB?_AFi@Aw@Fo@LSA_@MmA?}@KcAGcAHmK?_AE}ACqEBcAF[@q@B[POd@KtAMfDH`CKlCB`@BRFfEKpCBpDMd@?ZHd@Ab@APEb@?ZHp@H`AM^?d@Gl@BlAOdDMbA\\pAJ|@Aj@Bh@EbACxAOj@HhCPtCGdDDf@A~@Fp@EnC?~AKhACdBD|AIb@Fj@ArAFl@Gb@BvBKf@LfBGdAPlABLPD@NClAWj@Dd@Gl@@tAGzCFt@ErDKh@?d@HfCAn@F~CFtC@\\LDZBj@@fAEbA?tCLhBDPDFH?ZKR[@SGgDBuDIiCB{@GsB?OJk@b@Kf@AJC`AFzAMvAA^MnAu@j@E^a@t@Ux@CnBBbBGfBBNCd@Bt@LnD?NN?lGBxCCpA?rGCn@GHO@q@G}BB]QYoA[o@Ye@a@]i@WkAUg@@o@LSHe@\\m@p@Yd@_@lAGz@?z@Hx@Rr@Th@b@l@b@Xt@Zj@Hl@Ab@G|@[j@e@p@kAJ[Lk@FgAEaAKo@W{@OU]a@gA}@w@Mu@Ag@Hi@T_@T[Xg@p@[x@O~AATD~@Px@Vn@z@hAj@Xn@Rd@Bv@Cv@Q`@Uf@g@\\i@\\gADUR]~@GpAHv@CLJA`@Ij@O~@Sd@}@`BuClDa@n@g@n@yBbEgB|BWh@g@h@[r@k@`@_@`@[f@eA~@g@t@MHc@d@i@`@[b@m@j@_DtCWDWV@b@Gp@I|C@tDH~AGb@B`CWaCKAc@Va@Jo@@KB_GPm@IwEPi@GU?u@B_AJg@?k@JoAEYFuAHq@AeBF[KKWCe@@NGZcAf@oBPgBDo@Ju@@eCReAAe@NgHZkAPo@@o@JsAHg@@o@Ce@Js@@k@H_BCuGHWAYGmBLi@C{CTo@CkEHg@GuBDo@Ge@RwDKsBBi@Fo@CaAJm@Aq@D{D?yCPg@A_@Bc@E_ADk@R_C@c@Hw@Ai@DUNy@Eq@@i@GOIOe@EcA?k@DKLCDFBZPj@\\Zf@?^E`@An@Bb@LNOaBJi@Lc@FOCs@g@AQDIAk@",
+"average_heartrate": 153.2,
+"average_speed": 3.271,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 8245946103,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 1121.3,
+"moving_time": "0:07:05",
+"type": "Run",
+"start_date": "2022-12-13 23:54:34+00:00",
+"start_date_local": "2022-12-14 07:54:34",
+"location_country": "United States",
+"summary_polyline": "sy|oEuxnwSqBbAEH}FbC]d@q@l@Mb@Gj@BTRN~@Td@FXN^AZ@NCJIT?j@DdAd@VCZDTC@CJCV@@CVBLLLJ\\Bh@U^u@`@M`@Cx@FIVYB{B@i@JWLYIe@Dg@Ce@F_@Ci@BEB[EWBs@P_ACe@@EDg@JGEk@@i@A_@O?IEOMeAEONe@NBFj@LXAPNF",
+"average_heartrate": 141.4,
+"average_speed": 2.638,
+"source": "strava",
+"streak": 4
 }
 ]
