@@ -22198,5 +22198,35 @@
 "average_speed": 2.718,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 8387771780,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 10347.3,
+"moving_time": "1:00:02",
+"type": "Run",
+"start_date": "2023-01-13 23:40:12+00:00",
+"start_date_local": "2023-01-14 07:40:12",
+"location_country": "\u4e08\u516b\u5317\u8def\u8f85\u8def, \u4e07\u79d1\u7fe1\u7fe0\u56fd\u5bbe, \u96c1\u5854\u533a, \u897f\u5b89\u5e02, \u9655\u897f\u7701, 710077, \u4e2d\u56fd",
+"summary_polyline": "ii}oEmfnwSKY?]LOPERKb@@f@LTDh@?j@Dl@?BAJMTG\\HRMlAGHFZF`@Eh@@h@Lf@Ah@Sn@Gd@AZNXEh@CVI^Ad@Nh@DBCl@@h@DpAUh@EzANNDN\\Ab@@p@E|@AdBCFFv@Fr@Ln@H`ABRKp@El@Dl@CDAn@LfBDN@rBEN@RJ`@B~AMt@UjD?RIh@Ar@?dCEvBEjAAh@Bl@G~AFdECrDExAD`BCDDt@BfAKtFDxBAj@OZO?cE|@MB_@AiDx@qATe@L]N]@QBuA`@_B\\c@N}A`@cCd@_AX{Bf@q@RYTFXTBxBo@hAQb@Mv@Mt@Wr@KlEmA~A]f@EVQTIrD{@xA[d@Db@GdD}@FAFF?x@DzBCb@L`H?~B@tCJlAAh@Ej@JpDT~FZjAAp@DnBCRAj@LbAH|BNhBB`AJf@?b@Ln@Df@@h@V`DCTHp@?j@Hr@FtAHfBCl@LdBB~AFJFbBVnEPfE\\|GDnBC`BJ`@h@Dn@?jCPtDJjBNhBVnDHn@L^PLTl@B~AGpAOlAUlA]|A]nB_@v@[d@GJ@Lb@jA_@nAYnASVKb@CpE`BtCpAf@PlChAV@Uo@]?a@KwB}@k@]c@a@iAk@GGIW?wBG[WI_@?i@@aBG]O_@}@e@y@sA{Dm@gCg@oAIWKeAOOiAGYUQi@NcBKu@Ma@IMQk@AMJyA?SGeBMkBGOICOAw@Ne@BE@QOc@uAs@yAc@_BUi@OSO[Qg@Ou@_@eAc@_Bs@qAs@cAEwEKUYG]WYy@CAo@JwAPoCn@q@JwAHyEh@sBN{APy@Ng@ECMSqCKmCI_AKmJGuOGqAByGEsE?iA@i@",
+"average_heartrate": 160.5,
+"average_speed": 2.873,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 8387772322,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 2165.5,
+"moving_time": "0:12:29",
+"type": "Run",
+"start_date": "2023-01-14 00:41:10+00:00",
+"start_date_local": "2023-01-14 08:41:10",
+"location_country": "\u79d1\u6280\u4e8c\u8def\u8f85\u8def, \u96c1\u5854\u533a, \u897f\u5b89\u5e02, \u9655\u897f\u7701, 710077, \u4e2d\u56fd",
+"summary_polyline": "a~{oEcxkwS?_OAu@BQAm@KcB?o@DmG?_@F}CEiEEgBBg@?cEE{@?o@I_BDiFAm@NgAD}@GoCQ][De@?ECIWCo@KQEAg@H_@As@GgA?CDe@PECg@EsCJeAJqECoAFkA?c@Dm@Xe@@s@Ge@JmBLc@Aq@HWOEu@@eB@EPGTbAFH^XBECAQ?YO",
+"average_heartrate": 160.5,
+"average_speed": 2.891,
+"source": "strava",
+"streak": 1
 }
 ]
