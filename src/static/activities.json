@@ -28528,5 +28528,50 @@
 "average_speed": 2.692,
 "source": "strava",
 "streak": 15
+},
+{
+"run_id": 12251066386,
+"name": "\u3010\u65e5\u5e38\u901a\u52e4\u9a91\u884c\u3011-17.2KM-21.2km/h-124bpm",
+"distance": 17166.1,
+"moving_time": "0:48:29",
+"type": "Ride",
+"start_date": "2024-08-26 00:12:48+00:00",
+"start_date_local": "2024-08-26 08:12:48",
+"location_country": "\u6ca3\u4e1c\u65b0\u57ce, \u957f\u5b89\u533a, \u897f\u5b89\u5e02, \u9655\u897f\u7701, \u4e2d\u56fd",
+"summary_polyline": "ogbpEqz{vSa@Bg@CoBDm@Pk@AOOCK@g@NeD?oFFa@?SIWOgAASBeC?oCC_B?kJJqFAaCCoBK{B]}@EY@gBNgFT_JJmI@qEEuFEeB@_DEwBC{FIaGCkEBwDABA_BGwB@yIB}C?}@CQAsHCoAB}@Do@AmIE_FLiBCgEEwAHqICiFAY@gAAkADaCGiBBcACkEBgLFoACiCGqCBcEIoCIaBD_EAsL?wPHaCReCl@kDl@_CXqA^iAh@cCReBDy@?m@E]GeEKgBc@qEEy@]mCo@qGMaBIgB?iEHwCAs@JmD@wBAeAc@uI?g@HoAd@wFDoBAuBMuBQoBCkBEg@Sw@Q]GyABu@KmDC{B@yBE_G@OKyI?{AAuBOaCPyB?qCBoADuL?yBImBJ{ABgAMkJ@aBFeDAg@DeCGgCAoADcEG_DDqCAeABiBKeLMmA?cADiA@yDDwCD_A@CEmBB_DCkD@qCCwDBuAIcD@aBFsA?mBBc@LM?IMkBBm@JWBW?@PW@c@Xs@Lk@Ba@DgEEyLBaFQi@a@s@Uo@Ee@FqBAyAKuJ?yCDuAAmBBW@w@Em@EGAMHmA@cFG{CFy@GwA?uAG{@?iADm@A{@F_CFcHCiG@IByABg@JGMiD?g@DkBHu@D{DCoD?sE@g@GcC?mAEuABg@BICO?g@@gFBqAOwDH}CAUEQEwCB[C_C@iACsDVmCVsAr@gAFUB[E{BGkAOi@MWu@}@OWG[AcDG}DCiHDcFCi@?{BEeE@eDEgC?yCDgEEQFuBC{ADeC?eALgD@eBHuA@}ENqBByA?w@KmCDeBCe@B}BCwA?oFPc@j@u@^c@RCfGC`BCfDC`@Bx@Av@Bz@AxBKhBD`BCpAFHFRb@r@~@TL`@Lz@DnI?lBDp@A`@@`AILIf@]Zc@POH?F@FV?`CElAHTA^Ht@TCP@BB",
+"average_heartrate": 124.1,
+"average_speed": 5.901,
+"source": "strava",
+"streak": 15
+},
+{
+"run_id": 12251066278,
+"name": "\u3010\u65e5\u5e38\u901a\u52e4\u9a91\u884c\u3011-17.7KM-22.2km/h-119bpm",
+"distance": 17653.3,
+"moving_time": "0:47:42",
+"type": "Ride",
+"start_date": "2024-08-26 11:44:50+00:00",
+"start_date_local": "2024-08-26 19:44:50",
+"location_country": "\u957f\u5b89\u8def\u8857\u9053, \u7891\u6797\u533a, \u897f\u5b89\u5e02, \u9655\u897f\u7701, 710002, \u4e2d\u56fd",
+"summary_polyline": "_m`pEuo|wSGCBg@Gm@?qBGG?OIi@o@aBYWy@WgDWYEk@D_ACkEFuAM}Af@o@f@e@h@QHk@@qACs@FSAoBBu@FkBXkBHmDG{EJk@A{ASSOk@m@e@a@QEc@ASDUJSPe@x@GV?TDZXh@X`@\\`@DFDVJzH?~CFpABlBIvDGpAEnBGrABxEAdAEXAx@FjEGnC@lHAlCBr@?xBCrA@vACn@D~@?dDN`MC~CA`EErAOnAK^k@z@_@x@Mf@CbBBzAJ^h@v@H^Lx@Nh@DnANjBHzAHrECj@ETBZA\\DjAFlECl@B`BAhBJ~D@bAMpIAdHIbA@dBG~@LbAU~FAtDDpGDjAEfH?tK@l@L`CGjA@~AChDM|@@C?vIFbHAlCB~EAhA@fBAh@IVm@hAOh@A\\?rNCfGCdAGf@@CHlALf@JVT^Pj@Hr@B`B?jIBjDArBCtBDxFA|HALBpC?pBC~E@jAEnFBlA@xI@j@E`D@|LEzB?xCBjABLC|E?|JEfBDj@?x@Cb@D\\C~ABvAElPBd@?zBCxADtEEpC?vA@^CzBBrECn@@fFF~BN~@L^LrALb@H~AVtBVtGAlAIlBi@|FChAJ~ANdEHdA@pBUbJCxDBfAPvEHrAl@~G`@tD^rEVrBDpBErBEf@Mv@Ub@y@jAS`@Md@}@pEoArIIbC@pH@dACxC?xICtBBdGCr@FzF@fEGpIDlIBzMCzD@jQ@lAFz@Lv@NbCAzS@lCBf@EhB?|BBjBInRDvAJlIJfFBzKPlG?vEEjMe@pSMtGQpFCrCJbFAvCBlCIpCCvDFxBV^l@R`AJtA?fA?xBI~EKpDBbABHBNNJTFXB\\Ep@AhDDvEGLIA?EQK",
+"average_heartrate": 119.0,
+"average_speed": 6.168,
+"source": "strava",
+"streak": 15
+},
+{
+"run_id": 12251066361,
+"name": "\u6668\u95f4\u8dd1\u6b65 \ud83c\udf1e",
+"distance": 10086.6,
+"moving_time": "0:57:00",
+"type": "Run",
+"start_date": "2024-08-26 22:40:07+00:00",
+"start_date_local": "2024-08-27 06:40:07",
+"location_country": "\u79d1\u6e90\u8def, \u6ca3\u4e1c\u65b0\u57ce, \u957f\u5b89\u533a, \u897f\u5b89\u5e02, \u9655\u897f\u7701, \u4e2d\u56fd",
+"summary_polyline": "}xapEsj|vSFAFD\\?VTHx@?|BEf@B`@Ad@DhACP@~AGtCAlBDnBAXI`@D\\@v@Bl@EtABz@Hl@B`A@jDBd@AzABNK\\D^ApA@p@GtB@\\IbB@r@Cn@Bt@ClADzD\\nFAb@Gh@G~@Kn@GtAF|AEVHf@Gf@A^@|AFt@Lb@Qz@?z@Jl@BfAIn@ChA?jBGfF@hDGfBR|DC`A@r@FXDj@H`GMj@?vDDj@UvEBdQGhE@XInA]~AGd@@JPT^Xn@TdCh@fCVbAAp@Id@?j@F~EEhFSjL@nFCfABdBC|B?f@BX\\d@nCJhGAlBDjPAz@Dl@DGGo@AcCAmGFwFA_A?mDE}A@}BAK@m@BCHAN@[AH_CHy@Gk@CgC@m@E{@CyA@}@EoCBkA@{I@_@Da@Cq@Dk@G_@CoFBkEFuC@wECoBBmAAiEKyB?gGDiD?qBEgCEKAa@?o@DOLI@IEOEg@EcBB_@C{B?_IHuACiBB}AR_@b@Qj@A`@DJLEDG@]Ka@AYFWEEGEc@Am@CGMAe@@k@Mc@JsCDqACcABi@Do@?q@LaAIg@Ba@FsECOCoABuAEe@Ec@Ao@@UCECYPMEyDBo@EyD?sACo@@g@CaA@I@UGU]Ek@B{@M{CAuCE_A@e@Cy@DmBCa@Fi@B_C@mBBK@[?[GGG_@JUTQ\\Df@?NCFE@I?wAFMXMJ]?cDLe@dDEf@GZYTg@`@]LWAYZmAKi@Qe@MWOI}AEq@We@Gg@Dg@Ce@SUUUKM?",
+"average_heartrate": 153.9,
+"average_speed": 2.949,
+"source": "strava",
+"streak": 16
 }
 ]
