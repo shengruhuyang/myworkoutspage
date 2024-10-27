@@ -30028,5 +30028,35 @@
 "average_speed": 2.714,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 12753474817,
+"name": "\u6668\u95f4\u8dd1\u6b65",
+"distance": 207.5,
+"moving_time": "0:01:12",
+"type": "Run",
+"start_date": "2024-10-26 22:27:02+00:00",
+"start_date_local": "2024-10-27 06:27:02",
+"location_country": "China",
+"summary_polyline": "",
+"average_heartrate": 138.0,
+"average_speed": 2.881,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 12753474827,
+"name": "\u6668\u95f4\u8dd1\u6b65 \ud83c\udf25\ufe0f",
+"distance": 21172.2,
+"moving_time": "1:47:55",
+"type": "Run",
+"start_date": "2024-10-26 23:35:00+00:00",
+"start_date_local": "2024-10-27 07:35:00",
+"location_country": "\u91d1\u53f0\u533a, \u5b9d\u9e21\u5e02, \u9655\u897f\u7701, \u4e2d\u56fd",
+"summary_polyline": "wpvpEm}nmS_@fDEnAS~BEtAUjCQjEKr@KhBAnADrAG|E@^AnCQdDIdFAfCB|@?hCMdD@zCGvAa@hBFfDArCSfNDz@Cl@@lDEfCe@rPAfDEbA@`FIxCA`CQjH@pCMvAIxDB`AIbDFtGKrAQjKIp@A`@?tBOpI?lCM`CPvCb@LPFtB?dFVx@Vf@EfCFjBZ|ANPXD`@EbAA|GIn@A`AG`@?\\N~@Gd@G`Cq@lEHl@BtBJfA@n@GpDC|IQdE?nDGnBIh@GrAE`CW~B@jBFLL|CK|@QZChA?d@J|@?j@Lx@Rf@?l@GNCh@KtC?~BEbABfBUtCFfAIlD?|HUvIGdGEl@BJ@n@MxCGtKIfBKr@@TI\\Ln@C`ADdCEb@AzBKbCYh@c@Lg@GgFOcA@s@GgEB_ANwAWy@Lw@nAcBzB{AlAqG|Ga@l@{@f@s@z@_@n@I\\g@x@qCdE{@x@W\\QlAG`Ac@xBQbBLp@KNK\\Gr@BdAUjC?p@ItCWjBMtCKfAQ~C_@xFE`CEf@Uv@Gh@C~BG\\CfBYtCGLOtAAl@Fv@QnC]jAAtAKjBHl@MvCMfGI~@g@|DBt@KbBBzAEpAWdCKl@ArAUjDBxAX^hALdF^f@MXLVl@x@L\\Mx@^xEfAz@`@nDfAtXfHl@Ld@@XKPQPk@pDgIt@cCRe@\\a@^s@bAeCVaAHm@`@[t@_BA{@h@wAd@aApAuE\\k@Tq@X}@^iBRk@|@gBnAeD~ByG|@sDN[~B_HxCaIrCiIXM^J~ClB|BdAnC|A^NHCRSb@mAJm@hA_CPw@B]~@oCz@qBzAaFFc@?WMm@Y]a@QkFaAwB[c@Oe@YIQ?c@~@{CXmBReC^cDh@{H@u@PkCp@eFr@{CnCoHdAmDnA}EtA_I`BmNbB{Sj@{K\\cN?}HBeBE{@C}JEkDIy@ImCO}CIo@KuBUaCGgBk@uIe@aEO{@u@}Bc@gAc@u@{AqD}A}FuAgIiBqJkAwGSkBBsCFsAb@cCf@qAv@yATWj@i@zAeAvGiCbBc@r@YLQjAg@t@q@n@gAf@iBH{ACcDGkA@sB@_AJ_@EaCJeCCeCBcDCq@DkB?eDDcAAqAEG@^TjBD~@A\\Qp@Gl@E`AMdAHx@Cf@Fh@?nBEh@Ql@gAZwAEODaCJ}AKKKg@Du@IuAHQK",
+"average_heartrate": 163.3,
+"average_speed": 3.27,
+"source": "strava",
+"streak": 4
 }
 ]
